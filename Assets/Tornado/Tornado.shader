@@ -33,7 +33,7 @@ Shader "Performance/Tornado"
 		#pragma fragment frag
 
 		#include "UnityCG.cginc"
-		#include "MyCG.cginc"
+		#include "Assets/CGIncludes/MyCG.cginc"
 
 		struct appdata
 		{
